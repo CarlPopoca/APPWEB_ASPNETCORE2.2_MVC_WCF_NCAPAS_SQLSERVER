@@ -1,0 +1,106 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\PROYECTOS\\VisualStudioNET\\APPWEBMVCCORE_2.2_WCF_CAPAS\\WEBASPNETCORE2\\WEBASPNETCORE2.csproj": {}
+  },
+  "projects": {
+    "C:\\PROYECTOS\\VisualStudioNET\\APPWEBMVCCORE_2.2_WCF_CAPAS\\WEBASPNETCORE2\\WEBASPNETCORE2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\PROYECTOS\\VisualStudioNET\\APPWEBMVCCORE_2.2_WCF_CAPAS\\WEBASPNETCORE2\\WEBASPNETCORE2.csproj",
+        "projectName": "WEBASPNETCORE2",
+        "projectPath": "C:\\PROYECTOS\\VisualStudioNET\\APPWEBMVCCORE_2.2_WCF_CAPAS\\WEBASPNETCORE2\\WEBASPNETCORE2.csproj",
+        "packagesPath": "C:\\Users\\Praxis\\.nuget\\packages\\",
+        "outputPath": "C:\\PROYECTOS\\VisualStudioNET\\APPWEBMVCCORE_2.2_WCF_CAPAS\\WEBASPNETCORE2\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Praxis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\PROYECTOS\\VisualStudioNET\\APPWEBMVCCORE_2.2_WCF_CAPAS\\WebPruebaEntities\\WebPruebaEntities.csproj": {
+                "projectPath": "C:\\PROYECTOS\\VisualStudioNET\\APPWEBMVCCORE_2.2_WCF_CAPAS\\WebPruebaEntities\\WebPruebaEntities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "System.ServiceModel.Duplex": {
+              "target": "Package",
+              "version": "[4.4.*, )"
+            },
+            "System.ServiceModel.Http": {
+              "target": "Package",
+              "version": "[4.4.*, )"
+            },
+            "System.ServiceModel.NetTcp": {
+              "target": "Package",
+              "version": "[4.4.*, )"
+            },
+            "System.ServiceModel.Security": {
+              "target": "Package",
+              "version": "[4.4.*, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\PROYECTOS\\VisualStudioNET\\APPWEBMVCCORE_2.2_WCF_CAPAS\\WebPruebaEntities\\WebPruebaEntities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\PROYECTOS\\VisualStudioNET\\APPWEBMVCCORE_2.2_WCF_CAPAS\\WebPruebaEntities\\WebPruebaEntities.csproj",
+        "projectName": "WebPruebaEntities",
+        "projectPath": "C:\\PROYECTOS\\VisualStudioNET\\APPWEBMVCCORE_2.2_WCF_CAPAS\\WebPruebaEntities\\WebPruebaEntities.csproj"
+      },
+      "frameworks": {
+        "net47": {}
+      }
+    }
+  }
+}
